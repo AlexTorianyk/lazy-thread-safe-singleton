@@ -1,0 +1,14 @@
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.exe
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.deps.json
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.runtimeconfig.json
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.runtimeconfig.dev.json
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.dll
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\bin\Debug\netcoreapp3.1\LazySingletonExample.pdb
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.csproj.AssemblyReference.cache
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.AssemblyInfoInputs.cache
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.AssemblyInfo.cs
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.dll
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.pdb
+C:\Users\otorianyk\projects\local\LazySingletonExample\LazySingletonExample\obj\Debug\netcoreapp3.1\LazySingletonExample.genruntimeconfig.cache
